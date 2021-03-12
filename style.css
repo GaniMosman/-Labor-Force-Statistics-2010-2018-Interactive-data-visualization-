@@ -1,0 +1,140 @@
+html,body {
+	height:1200px;
+	width:1300px;
+	margin:7.5px;
+}
+
+body{
+	background-color:#F5F5F5;
+	border:2.5px solid green;
+
+}
+
+
+h1{
+	color:green;
+	text-align:center;
+	font-family: Times New Roman;
+	margin: 5px;
+}
+#country-title{
+    color:green;
+	font-family: Times New Roman;
+	margin-top : 32px;
+	margin-left : 107px;
+	font-size : 18px;
+}
+
+#year-title{
+    color:green;
+	font-family: Times New Roman;
+	margin-top : 32px;
+	margin-left : 115px;
+	font-size : 18px;
+}
+
+#div1 {
+	height:500px;
+	width:600px;
+	background-color:#F0F8FF;
+	margin-top:10px;
+	margin-left:30px;
+	border:1px solid green;
+	float:left;
+	overflow: auto;
+}
+
+	
+.nodes circle {
+ stroke: #fff;
+ stroke-width: 1.5px;
+} 
+
+
+#div2 {
+	height:500px;
+	width:600px;
+	background-color: #F0F8FF;
+	margin-top:10px;
+	margin-right:30px;
+	border:1px solid green;
+	float:right;
+	overflow: auto;
+}
+
+#div3{
+	height:380px;
+	width:600px;
+	background-color:#F0F8FF;
+	margin-top:30px;
+	margin-left:30px;
+	margin-bottom:10px;
+	border:1px solid green;
+	float:left;
+	overflow: auto;
+}
+
+#div4 {
+	height:380px;
+	width:600px;
+	background-color:#F0F8FF;
+	margin-top:30px;
+	margin-right:30px;
+	margin-bottom:10px;
+	border:1px solid green;
+	float:right;
+	overflow: auto;
+}
+
+#div5{
+	
+	height:150px;
+	width:300px;
+	background-color: #F5F5F5;
+	margin-top:30px;
+	margin-right:10px;
+	margin-left :45px;
+	margin-bottom:10px;
+	overflow: auto;
+	float:left;
+	
+}
+#div6{
+	height:150px;
+	width:300px;
+	background-color: #F5F5F5;
+	margin-top:30px;
+	margin-right:45px;
+	margin-bottom:10px;
+	overflow: auto;
+	float:right;
+}
+
+
+#country{
+	width: 100px;	
+	height: 30px;	
+	color : green;
+	margin-left:90px;
+	background-color : #F0F8FF;
+}
+
+#year{
+	width: 100px;	
+	height: 30px;	
+	color : green;
+	background-color : #F0F8FF;
+	margin-left:90px;
+	
+}
+
+  
+
+.arc2 text {
+  text-anchor: middle;
+}
+
+.arc2 path {
+  stroke: black;
+  stroke-width:2px;
+}
